@@ -1,7 +1,8 @@
 #pragma once
 
-#include "mapping/Mapping.hpp"
+#include "mapping/Mapping1.hpp"
 #include "mesh/SharedPointer.hpp"
+#include "MagicHeader.hpp"
 
 namespace precice::action {
 
